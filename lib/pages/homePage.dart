@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
   String resultETH = '?';
   String resultDOGE = '?';
 
-  String selectedValue = '?';
+  String selectedValue = 'USD';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
